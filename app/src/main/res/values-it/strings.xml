@@ -18,4 +18,11 @@
     <string name="ver">Vedi di più</string>
     <string name="bienvenido">Benvenuto</string>
     <string name="sobremi">Ciao, sono Juan, uno studente di programmazione con conoscenze di base in linguaggi come Java, CSS, HTML, Android Studio, SQL Server e JavaScript. Inoltre, sono anche un artista 3D con conoscenze avanzate in programmi come Maya, 3Ds Max, ZBrush, Vray, Solidworks e Substance Painter. :)</string>
+    <string name="contacto">Conttato:</string>
+    <string name="rango">fascia di prezzo:</string>
+    <string name="telefon">Telefoni:</string>
+    <string name="plato">piatto consigliato:</string>
+    <string name="nombre">Nome:</string>
+
+
 </resources>

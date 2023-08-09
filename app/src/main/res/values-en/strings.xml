@@ -18,4 +18,10 @@
     <string name="ver">See more</string>
     <string name="bienvenido">Welcome</string>
     <string name="sobremi">Hello, I am Juan, a programming student with basic knowledge in languages such as Java, CSS, HTML, Android Studio, SQL Server, and JavaScript. In addition to that, I am also a 3D artist with advanced knowledge in programs like Maya, 3Ds Max, ZBrush, Vray, Solidworks, and Substance Painter. :)</string>
+    <string name="contacto">Contact:</string>
+    <string name="rango">Price range:</string>
+    <string name="telefon">Contact number:</string>
+    <string name="plato">Recomended dish:</string>
+    <string name="nombre">Name:</string>
+
 </resources>

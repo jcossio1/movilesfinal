@@ -17,6 +17,12 @@
     <string name="ver">Ver más</string>
     <string name="bienvenido">bienvenido</string>
     <string name="sobremi">Hola, soy juan, Estudiante de programacion, tengo conocimientos basicos en lenguajes como, java, css, html, android studio, sql server y javascript, ademas de eso tambien soy artista 3D con conocimientos en Maya, 3Ds max, Zbrush, Vray, solidworks y substance painter, en estos programas considero que mi conocimiento es avanzado. :)</string>
+    <string name="contacto">Contacto:</string>
+    <string name="rango">Rango de precio:</string>
+    <string name="telefon">Telefono:</string>
+    <string name="plato">Plato recomendado:</string>
+    <string name="nombre">Nombre:</string>
+
 
 
 </resources>
